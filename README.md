@@ -1,3 +1,6 @@
+![M365 Security Automation Suite Banner](./assets/ChatGPT%20Image%20Apr%2010,%202025,%2012_17_52%20AM.png)
+
+
 # M365 Security Automation Suite 🛡️
 
 A collection of PowerShell scripts designed to automate key security, compliance, and admin tasks across Microsoft 365. This project reflects real-world enterprise operations, especially in environments like NASA or Fortune 500 organizations with hybrid cloud deployments.
