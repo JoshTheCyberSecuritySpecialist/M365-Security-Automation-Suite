@@ -1,0 +1,27 @@
+# PowerShell artifacts
+*.ps1~
+*.psm1~
+*.psd1~
+*.ps1xml~
+*.xaml.cs
+*.user
+*.suo
+*.nupkg
+*.snupkg
+*.cache
+*.log
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files
+*.csv
+*.json
+*.zip
